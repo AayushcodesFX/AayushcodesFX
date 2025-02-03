@@ -15,7 +15,6 @@
 
 - intrested in Data science. 
 
-## MERN Stack
 <h2>Tech Stack - MERN, JavaScript, TypeScript, C++, and C</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin-right: 10px;"/>
