@@ -13,7 +13,6 @@
 
 - 🏫 Currentlt pursuing BCA in Manipal University
 
-- intrested in Data science. 
 
 <h2>Tech Stack - MERN, JavaScript, TypeScript, C++, and C</h2>
 <p>
